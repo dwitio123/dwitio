@@ -7,8 +7,8 @@ Hi there, I'm **Dwitio Ahmad Pranoto**, a **Mobile Developer** 🚀 from Indones
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working on my personal projects
   - ⚡ Excited to create open-source projects
-  - 🌱 I’m currently learning Flutter
-  - 💕 I'm currently fall in love with Flutter
+  - 🌱 I’m currently learning Kotlin and Flutter
+  - 💕 I'm currently fall in love with Kotlin and Flutter
   - 📫 You can reach me at <a href="mailto:dwitioahmadpranoto@gmail.com">dwitioahmadpranoto@gmail.com</a>
   
 <p>
